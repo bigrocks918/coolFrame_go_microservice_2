@@ -1,10 +1,6 @@
-[![Version](https://img.shields.io/badge/goversion-1.18.x-blue.svg)](https://golang.org)
-[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/tsawler/goblender/master/LICENSE)
 
-# Working with Microservices in Go
 
-This is the source code for the Udemy course **Working with Microservices and Go**. This project
-consists of a number of loosely coupled microservices, all written in Go:
+# CoolFrame Go Microservice
 
 - broker-service: an optional single entry point to connect to all services from one place (accepts JSON;
 sends JSON, makes calls via gRPC, and pushes to RabbitMQ)
